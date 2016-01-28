@@ -43,15 +43,15 @@ xor | Exclusive Disjunction | (a<=b) xor (b>=c)
 
 ##### Tabel Kebenaran not #####
 
-A | not A
---|-------
+variabel A | not A
+-----------|-------
 true | false
 false | true
 
 ##### Tabel Kebenaran and #####
 
-A | B | A and B
---|--|-----------
+variabel A | variabel B | A and B
+-----------|------------|-----------
 true | true | true
 true | false | false
 false | true | false
@@ -59,8 +59,8 @@ false | false | false
 
 ##### Tabel Kebenaran or #####
 
-A | B | A or B
---|--|-----------
+variabel A | variabel B | A or B
+-----------|------------|-----------
 true | true | true
 true | false | true
 false | true | true
@@ -68,8 +68,8 @@ false | false | false
 
 ##### Tabel Kebenaran xor #####
 
-A | B | A xor B
---|--|-----------
+variabel A | variabel B | A xor B
+-----------|------------|-----------
 true | true | false
 true | false | true
 false | true | true
