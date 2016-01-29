@@ -78,6 +78,7 @@ begin
         '+': writeln('Karakter +');
         '*': writeln('Karakter *');
         else writeln('Karakter lain');
+    end;
 end.
 ```
 
