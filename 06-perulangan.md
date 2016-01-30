@@ -56,6 +56,16 @@ begin
 end.
 ```
 
+Jika perulangannya menurun, maka seperti ini
+
+```
+for variabel_counter := nilai_awal downto nilai_akhir do begin
+    { statement yang ingin diulang.. }
+end;
+```
+
+Keyword `to` diganti dengan `downto`.
+
 ### Perulangan while ###
 
 Perulangan jenis ini mensyaratkan adanya kondisi yang mana jika kondisi bernilai `true`, maka perulangan akan terus berjalan.
