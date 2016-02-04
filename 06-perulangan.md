@@ -91,6 +91,8 @@ begin
         i := i + 1; { increment nilai i sebanyak 1 }
     end;
 end.
+
+
 ```
 
 Jika kondisi dalam perulangan `while` selalu `true`, maka akan mengakibatkan infinite loop.
