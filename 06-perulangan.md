@@ -70,14 +70,6 @@ Keyword `to` diganti dengan `downto`.
 
 Perulangan jenis ini mensyaratkan adanya kondisi yang mana jika kondisi bernilai `true`, maka perulangan akan terus berjalan.
 
-Bentuk umum perulangan while
-
-```
-while (kondisi) do begin
-    { statement yang diulang ketika kondisi bernilai true.. }
-end;
-```
-
 Jika kode di perulangan `for` diubah ke bentuk perulangan `while`, maka seperti ini...
 
 ```pas
