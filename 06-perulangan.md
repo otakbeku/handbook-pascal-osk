@@ -77,10 +77,10 @@ var
     i : integer;
 
 begin
-    i := 1; { inisialisasi i dengan 1 }
+    i := 1;
     while (i <= 10000) do begin
         writeln(i);
-        i := i + 1; { increment nilai i sebanyak 1 }
+        i := i + 1;
     end;
 end.
 ```
