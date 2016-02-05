@@ -85,6 +85,8 @@ begin
 end.
 ```
 
+Link bagian ini [https://github.com/99ridho/handbook-pascal-osk/blob/master/06-perulangan.md#perulangan-while](https://github.com/99ridho/handbook-pascal-osk/blob/master/06-perulangan.md#perulangan-while)
+
 Jika kondisi dalam perulangan `while` selalu `true`, maka akan mengakibatkan infinite loop.
 
 ### Perulangan Repeat-until ###
